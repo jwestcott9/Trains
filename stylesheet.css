@@ -1,0 +1,48 @@
+.input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#input_field {
+    margin-top: 40px;
+    border: solid lightskyblue 2px;
+    background: white;
+    width: 86%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 20px;
+    opacity: .9;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 771px) {
+    #input_field {
+        width: 100%;
+    }
+}
+
+.jumbotron {
+    text-align: center;
+    height: 100px;
+    padding: 15px;
+    background: lightskyblue;
+}
+
+
+.schedule {
+    border: solid lightskyblue 2px;
+    background: white;
+    opacity: .9;
+    
+    
+}
+
+
+.schedule_title th {
+    background: lightskyblue;
+}
+
+body {
+    height: 800px;
+    background: url("https://i.pinimg.com/originals/45/69/3f/45693f8d964748980be6a518fadddc98.jpg")
+}
